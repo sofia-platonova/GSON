@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Oleg",
+    "skills": [
+      "java",
+      "python",
+      "node",
+      "kotlin"
+    ]
+  },
+  {
+    "name": "Oleg1",
+    "skills": [
+      "java1",
+      "python1",
+      "node1",
+      "kotlin1"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "skills": [
+      "java",
+      "python",
+      "javascript",
+      "kotlin"
+    ]
+  }
+]
